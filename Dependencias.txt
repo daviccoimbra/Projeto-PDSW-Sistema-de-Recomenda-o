@@ -1,0 +1,5 @@
+Dependências necessárias para o código:
+
+pandas
+numpy
+streamlit
